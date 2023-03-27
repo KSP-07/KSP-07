@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij Kumar Pandey</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align = "right" alt="Coding" width = "400" src = "https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif">
+<h3 align="center">A passionate Software Engineer from India❤️</h3>
+<br>
+<img align = "right" alt="Coding" hieght = "350" width = "350" src = "https://raw.githubusercontent.com/BhuvaneshHingal/HELLO-WORLD/master/resources/Hello%20World!.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksp-07&label=Profile%20views&color=0e75b6&style=flat" alt="ksp-07" /> </p>
 
