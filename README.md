@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kshitijkp02@gmail.com**
 
-- ⚡ Fun fact **Is is what it is.**
+- ⚡ Fun fact **Simplicity is not so simple!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
