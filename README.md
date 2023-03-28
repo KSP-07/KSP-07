@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **DSA , Javascript , Life**
 
-- 📫 How to reach me **kshitijkp02@gmail.com**
+- 📫 Reach me at : **kshitijkp02@gmail.com**
 
-- ⚡ Fun fact **Simplicity is not so simple!**
+- ⚡ Fun fact : **Simplicity is not so simple!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
