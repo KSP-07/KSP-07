@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **backend in node.js and express**
 
-- 💬 Ask me about **DSA , Javascript , Movie/Series**
+- 💬 Ask me about **DSA , Javascript , Movies/Series**
 
 - 📫 Reach me at : **kshitijkp02@gmail.com**
 
