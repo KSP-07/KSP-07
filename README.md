@@ -13,7 +13,7 @@
 
 - 📫 Reach me at : **kshitijkp02@gmail.com**
 
-- ⚡ Fun fact : **Simplicity is not so simple!**
+- ⚡ Fun fact : **Inception is real!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
