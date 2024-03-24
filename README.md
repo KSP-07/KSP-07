@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA , Javascript , Movies/Series**
 
-- 📫 Reach me at : **kshitijkp02@gmail.com**
+- 📫 Reach me at : **id.ksp07@gmail.com**
 
 - ⚡ Fun fact : **Inception is real!**
 
