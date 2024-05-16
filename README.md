@@ -7,13 +7,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksp-07" alt="ksp-07" /></a> </p> -->
 
-- 🌱 I’m currently learning **backend in node.js and express**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **DSA , Javascript , Movies/Series**
 
 - 📫 Reach me at : **id.ksp07@gmail.com**
-
-- ⚡ Fun fact : **Inception is real!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
